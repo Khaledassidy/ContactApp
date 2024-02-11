@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Contect App</string>
+    <string name="addcontact">Add Contact</string>
+    <string name="date">1-1-2002</string>
+    <string name="yournumber">phone</string>
+    <string name="followers">Followers</string>
+    <string name="comment">Comment</string>
+    <string name="number">100</string>
+    <string name="posts">Posts</string>
+    <string name="call">Call</string>
+    <string name="name">khaled assidi</string>
+    <string name="welcometext">Welcome to my profile you can call me</string>
+    <string name="like">like</string>
+    <string name="share">share</string>
+    <string name="entername">Enter your name</string>
+    <string name="enterphone">Enter your phone</string>
+    <string name="entrposts">Enter your number of posts</string>
+    <string name="enterfollowers">Enter number of followers</string>
+    <string name="submit">Submit</string>
+    <string name="entrbirth">Enter your birth date</string>
+    <string name="addimage">Add Image</string>
+
+
+</resources>
